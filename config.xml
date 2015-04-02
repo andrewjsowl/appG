@@ -12,7 +12,6 @@
     <preference name="fullscreen" value="false" />
     <preference name="android-installLocation" value="auto" />
     <preference name="BackgroundColor" value="0xffffffff "/>
-    <preference name="android-minSdkVersion" value="10" />
     <preference name="KeepRunning" value="true"/>
     <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
