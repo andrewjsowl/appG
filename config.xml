@@ -8,9 +8,6 @@
     <description>A sample app for Up and Running with PhoneGap Build</description>
     <author email="jsowlclaw@gmail.com">Andrew zakhary</author>
     <gap:platform name="android" />
-    <preference name="fullscreen" value="false" />
-    <preference name="BackgroundColor" value="0xffffffff "/>
-    <preference name="KeepRunning" value="true"/>
     <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:density="hdpi" />
